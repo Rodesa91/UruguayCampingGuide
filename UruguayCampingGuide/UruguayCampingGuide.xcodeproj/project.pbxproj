@@ -15,6 +15,13 @@
 		9C211C5C24EA01E00008D70E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C211C5A24EA01E00008D70E /* LaunchScreen.storyboard */; };
 		9C33B9BE24F61D21006C7786 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C33B9BD24F61D21006C7786 /* CircleImage.swift */; };
 		9C33B9C024F61E80006C7786 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C33B9BF24F61E80006C7786 /* MapView.swift */; };
+		9C62C5A624FB7FA700F9BE12 /* laAguada.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C59F24FB7FA600F9BE12 /* laAguada.jpg */; };
+		9C62C5A724FB7FA700F9BE12 /* puntaDelDiablo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A024FB7FA600F9BE12 /* puntaDelDiablo.png */; };
+		9C62C5A824FB7FA700F9BE12 /* puntaBallena.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A124FB7FA600F9BE12 /* puntaBallena.jpg */; };
+		9C62C5A924FB7FA700F9BE12 /* parqueAndresito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A224FB7FA600F9BE12 /* parqueAndresito.jpg */; };
+		9C62C5AA24FB7FA700F9BE12 /* campingData.json in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A324FB7FA600F9BE12 /* campingData.json */; };
+		9C62C5AB24FB7FA700F9BE12 /* sanRafael.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A424FB7FA600F9BE12 /* sanRafael.jpg */; };
+		9C62C5AC24FB7FA700F9BE12 /* santaTeresa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A524FB7FA700F9BE12 /* santaTeresa.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +35,13 @@
 		9C211C5D24EA01E00008D70E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9C33B9BD24F61D21006C7786 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		9C33B9BF24F61E80006C7786 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		9C62C59F24FB7FA600F9BE12 /* laAguada.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laAguada.jpg; sourceTree = "<group>"; };
+		9C62C5A024FB7FA600F9BE12 /* puntaDelDiablo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = puntaDelDiablo.png; sourceTree = "<group>"; };
+		9C62C5A124FB7FA600F9BE12 /* puntaBallena.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puntaBallena.jpg; sourceTree = "<group>"; };
+		9C62C5A224FB7FA600F9BE12 /* parqueAndresito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = parqueAndresito.jpg; sourceTree = "<group>"; };
+		9C62C5A324FB7FA600F9BE12 /* campingData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = campingData.json; sourceTree = "<group>"; };
+		9C62C5A424FB7FA600F9BE12 /* sanRafael.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sanRafael.jpg; sourceTree = "<group>"; };
+		9C62C5A524FB7FA700F9BE12 /* santaTeresa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = santaTeresa.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +82,7 @@
 				9C33B9BF24F61E80006C7786 /* MapView.swift */,
 				9C211C5A24EA01E00008D70E /* LaunchScreen.storyboard */,
 				9C211C5D24EA01E00008D70E /* Info.plist */,
+				9C62C59E24FB7F5900F9BE12 /* Resources */,
 				9C211C5724EA01E00008D70E /* Preview Content */,
 			);
 			path = UruguayCampingGuide;
@@ -79,6 +94,20 @@
 				9C211C5824EA01E00008D70E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9C62C59E24FB7F5900F9BE12 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				9C62C5A324FB7FA600F9BE12 /* campingData.json */,
+				9C62C59F24FB7FA600F9BE12 /* laAguada.jpg */,
+				9C62C5A224FB7FA600F9BE12 /* parqueAndresito.jpg */,
+				9C62C5A124FB7FA600F9BE12 /* puntaBallena.jpg */,
+				9C62C5A024FB7FA600F9BE12 /* puntaDelDiablo.png */,
+				9C62C5A424FB7FA600F9BE12 /* sanRafael.jpg */,
+				9C62C5A524FB7FA700F9BE12 /* santaTeresa.jpg */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,8 +169,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C211C5C24EA01E00008D70E /* LaunchScreen.storyboard in Resources */,
+				9C62C5AC24FB7FA700F9BE12 /* santaTeresa.jpg in Resources */,
+				9C62C5AA24FB7FA700F9BE12 /* campingData.json in Resources */,
+				9C62C5A924FB7FA700F9BE12 /* parqueAndresito.jpg in Resources */,
 				9C211C5924EA01E00008D70E /* Preview Assets.xcassets in Resources */,
 				9C211C5624EA01E00008D70E /* Assets.xcassets in Resources */,
+				9C62C5A624FB7FA700F9BE12 /* laAguada.jpg in Resources */,
+				9C62C5A824FB7FA700F9BE12 /* puntaBallena.jpg in Resources */,
+				9C62C5A724FB7FA700F9BE12 /* puntaDelDiablo.png in Resources */,
+				9C62C5AB24FB7FA700F9BE12 /* sanRafael.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

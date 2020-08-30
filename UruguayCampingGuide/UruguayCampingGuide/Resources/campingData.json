@@ -1,0 +1,80 @@
+[
+ {
+   "name": "Punta Ballena",
+   "state": "Maldonado",
+   "city": "Punta Ballena",
+   "id": 1001,
+   "isFeatured": true,
+   "coordinates": {
+    "longitude": -34.885516,
+    "latitude": -55.021946
+    },
+   "telephone": "42578902",
+   "imageName": "puntaBallena"
+ },
+ {
+   "name": "San Rafael",
+   "state": "Maldonado",
+   "city": "Punta del Este",
+   "id": 1002,
+   "isFeatured": false,
+   "coordinates": {
+    "longitude": -34.915088,
+    "latitude": -54.88407
+    },
+   "telephone": "4248 6715",
+   "imageName": "sanRafael"
+ },
+ {
+   "name": "Parque Nacional de Santa Teresa",
+   "state": "Rocha",
+   "city": "Santa Teresa",
+   "id": 1003,
+   "isFeatured": true,
+   "coordinates": {
+    "longitude": -33.999737,
+    "latitude": -53.561851
+    },
+   "telephone": "44772103",
+   "imageName": "santaTeresa"
+ },
+ {
+   "name": "Punta del Diablo",
+   "state": "Rocha",
+   "city": "Punta del Diablo",
+   "id": 1004,
+   "isFeatured": false,
+   "coordinates": {
+    "longitude": -34.035008,
+    "latitude": -53.567855
+    },
+   "telephone": "4477 2060",
+   "imageName": "puntaDelDiablo"
+ },
+ {
+   "name": "La Aguada",
+   "state": "Rocha",
+   "city": "La Paloma",
+   "id": 1005,
+   "isFeatured": false,
+   "coordinates": {
+    "longitude": -34.646068,
+    "latitude": -54.158395
+    },
+   "telephone": "4479 9596",
+   "imageName": "laAguada"
+ },
+ {
+   "name": "Parque Andresito",
+   "state": "Rocha",
+   "city": "La Paloma",
+   "id": 1006,
+   "isFeatured": true,
+   "coordinates": {
+    "longitude": -34.652896,
+    "latitude": -54.156083
+    },
+   "telephone": " 4479 6081",
+   "imageName": "parqueAndresito"
+ }
+]
