@@ -1,8 +1,22 @@
-[
+[ {
+  "name": "Parque Nacional de Santa Teresa",
+  "state": "Rocha",
+  "city": "Santa Teresa",
+  "category": "Beaches",
+  "id": 1003,
+  "isFeatured": true,
+  "coordinates": {
+   "longitude": -33.999737,
+   "latitude": -53.561851
+   },
+  "telephone": "44772103",
+  "imageName": "santaTeresa"
+},
  {
    "name": "Punta Ballena",
    "state": "Maldonado",
    "city": "Punta Ballena",
+   "category": "Rivers",
    "id": 1001,
    "isFeatured": true,
    "coordinates": {
@@ -16,6 +30,7 @@
    "name": "San Rafael",
    "state": "Maldonado",
    "city": "Punta del Este",
+   "category": "Rivers",
    "id": 1002,
    "isFeatured": false,
    "coordinates": {
@@ -26,22 +41,10 @@
    "imageName": "sanRafael"
  },
  {
-   "name": "Parque Nacional de Santa Teresa",
-   "state": "Rocha",
-   "city": "Santa Teresa",
-   "id": 1003,
-   "isFeatured": true,
-   "coordinates": {
-    "longitude": -33.999737,
-    "latitude": -53.561851
-    },
-   "telephone": "44772103",
-   "imageName": "santaTeresa"
- },
- {
    "name": "Punta del Diablo",
    "state": "Rocha",
    "city": "Punta del Diablo",
+   "category": "Beaches",
    "id": 1004,
    "isFeatured": false,
    "coordinates": {
@@ -55,6 +58,7 @@
    "name": "La Aguada",
    "state": "Rocha",
    "city": "La Paloma",
+   "category": "Beaches",
    "id": 1005,
    "isFeatured": false,
    "coordinates": {
@@ -68,6 +72,7 @@
    "name": "Parque Andresito",
    "state": "Rocha",
    "city": "La Paloma",
+   "category": "Beaches",
    "id": 1006,
    "isFeatured": true,
    "coordinates": {

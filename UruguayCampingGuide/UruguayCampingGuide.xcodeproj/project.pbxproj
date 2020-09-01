@@ -7,28 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C08AB3824FC615D007E3723 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C08AB3724FC615D007E3723 /* Home.swift */; };
 		9C211C5024EA01DF0008D70E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C211C4F24EA01DF0008D70E /* AppDelegate.swift */; };
 		9C211C5224EA01DF0008D70E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C211C5124EA01DF0008D70E /* SceneDelegate.swift */; };
-		9C211C5424EA01DF0008D70E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C211C5324EA01DF0008D70E /* ContentView.swift */; };
 		9C211C5624EA01E00008D70E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C211C5524EA01E00008D70E /* Assets.xcassets */; };
 		9C211C5924EA01E00008D70E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C211C5824EA01E00008D70E /* Preview Assets.xcassets */; };
 		9C211C5C24EA01E00008D70E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C211C5A24EA01E00008D70E /* LaunchScreen.storyboard */; };
 		9C33B9BE24F61D21006C7786 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C33B9BD24F61D21006C7786 /* CircleImage.swift */; };
 		9C33B9C024F61E80006C7786 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C33B9BF24F61E80006C7786 /* MapView.swift */; };
 		9C62C5A624FB7FA700F9BE12 /* laAguada.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C59F24FB7FA600F9BE12 /* laAguada.jpg */; };
-		9C62C5A724FB7FA700F9BE12 /* puntaDelDiablo.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A024FB7FA600F9BE12 /* puntaDelDiablo.png */; };
 		9C62C5A824FB7FA700F9BE12 /* puntaBallena.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A124FB7FA600F9BE12 /* puntaBallena.jpg */; };
 		9C62C5A924FB7FA700F9BE12 /* parqueAndresito.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A224FB7FA600F9BE12 /* parqueAndresito.jpg */; };
 		9C62C5AA24FB7FA700F9BE12 /* campingData.json in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A324FB7FA600F9BE12 /* campingData.json */; };
 		9C62C5AB24FB7FA700F9BE12 /* sanRafael.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A424FB7FA600F9BE12 /* sanRafael.jpg */; };
 		9C62C5AC24FB7FA700F9BE12 /* santaTeresa.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9C62C5A524FB7FA700F9BE12 /* santaTeresa.jpg */; };
+		9C62C5AF24FB806C00F9BE12 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C62C5AE24FB806C00F9BE12 /* Data.swift */; };
+		9C62C5B124FB80C300F9BE12 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C62C5B024FB80C300F9BE12 /* Landmark.swift */; };
+		9CB5F1C824FE00F700638DDF /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB5F1C724FE00F700638DDF /* LandmarkList.swift */; };
+		9CB5F1CA24FE012A00638DDF /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB5F1C924FE012A00638DDF /* UserData.swift */; };
+		9CB5F1CC24FE016800638DDF /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB5F1CB24FE016800638DDF /* LandmarkRow.swift */; };
+		9CB5F1CE24FE017200638DDF /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB5F1CD24FE017200638DDF /* LandmarkDetail.swift */; };
+		9CB5F1D024FE069B00638DDF /* CategoryRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB5F1CF24FE069B00638DDF /* CategoryRow.swift */; };
+		9CB5F1D224FE081000638DDF /* puntaDelDiablo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CB5F1D124FE081000638DDF /* puntaDelDiablo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C08AB3724FC615D007E3723 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		9C211C4C24EA01DF0008D70E /* UruguayCampingGuide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UruguayCampingGuide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C211C4F24EA01DF0008D70E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9C211C5124EA01DF0008D70E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9C211C5324EA01DF0008D70E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9C211C5524EA01E00008D70E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C211C5824EA01E00008D70E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9C211C5B24EA01E00008D70E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -36,12 +43,19 @@
 		9C33B9BD24F61D21006C7786 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		9C33B9BF24F61E80006C7786 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		9C62C59F24FB7FA600F9BE12 /* laAguada.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = laAguada.jpg; sourceTree = "<group>"; };
-		9C62C5A024FB7FA600F9BE12 /* puntaDelDiablo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = puntaDelDiablo.png; sourceTree = "<group>"; };
 		9C62C5A124FB7FA600F9BE12 /* puntaBallena.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puntaBallena.jpg; sourceTree = "<group>"; };
 		9C62C5A224FB7FA600F9BE12 /* parqueAndresito.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = parqueAndresito.jpg; sourceTree = "<group>"; };
 		9C62C5A324FB7FA600F9BE12 /* campingData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = campingData.json; sourceTree = "<group>"; };
 		9C62C5A424FB7FA600F9BE12 /* sanRafael.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sanRafael.jpg; sourceTree = "<group>"; };
 		9C62C5A524FB7FA700F9BE12 /* santaTeresa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = santaTeresa.jpg; sourceTree = "<group>"; };
+		9C62C5AE24FB806C00F9BE12 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		9C62C5B024FB80C300F9BE12 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
+		9CB5F1C724FE00F700638DDF /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		9CB5F1C924FE012A00638DDF /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		9CB5F1CB24FE016800638DDF /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		9CB5F1CD24FE017200638DDF /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
+		9CB5F1CF24FE069B00638DDF /* CategoryRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryRow.swift; sourceTree = "<group>"; };
+		9CB5F1D124FE081000638DDF /* puntaDelDiablo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = puntaDelDiablo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +69,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9C08AB3624FC613D007E3723 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				9C33B9BD24F61D21006C7786 /* CircleImage.swift */,
+				9C33B9BF24F61E80006C7786 /* MapView.swift */,
+				9C08AB3724FC615D007E3723 /* Home.swift */,
+				9CB5F1C724FE00F700638DDF /* LandmarkList.swift */,
+				9CB5F1CB24FE016800638DDF /* LandmarkRow.swift */,
+				9CB5F1CD24FE017200638DDF /* LandmarkDetail.swift */,
+				9CB5F1CF24FE069B00638DDF /* CategoryRow.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		9C211C4324EA01DF0008D70E = {
 			isa = PBXGroup;
 			children = (
@@ -74,12 +102,11 @@
 		9C211C4E24EA01DF0008D70E /* UruguayCampingGuide */ = {
 			isa = PBXGroup;
 			children = (
+				9C08AB3624FC613D007E3723 /* Views */,
+				9C62C5AD24FB7FF400F9BE12 /* Models */,
 				9C211C4F24EA01DF0008D70E /* AppDelegate.swift */,
 				9C211C5124EA01DF0008D70E /* SceneDelegate.swift */,
-				9C211C5324EA01DF0008D70E /* ContentView.swift */,
 				9C211C5524EA01E00008D70E /* Assets.xcassets */,
-				9C33B9BD24F61D21006C7786 /* CircleImage.swift */,
-				9C33B9BF24F61E80006C7786 /* MapView.swift */,
 				9C211C5A24EA01E00008D70E /* LaunchScreen.storyboard */,
 				9C211C5D24EA01E00008D70E /* Info.plist */,
 				9C62C59E24FB7F5900F9BE12 /* Resources */,
@@ -103,11 +130,21 @@
 				9C62C59F24FB7FA600F9BE12 /* laAguada.jpg */,
 				9C62C5A224FB7FA600F9BE12 /* parqueAndresito.jpg */,
 				9C62C5A124FB7FA600F9BE12 /* puntaBallena.jpg */,
-				9C62C5A024FB7FA600F9BE12 /* puntaDelDiablo.png */,
+				9CB5F1D124FE081000638DDF /* puntaDelDiablo.jpg */,
 				9C62C5A424FB7FA600F9BE12 /* sanRafael.jpg */,
 				9C62C5A524FB7FA700F9BE12 /* santaTeresa.jpg */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		9C62C5AD24FB7FF400F9BE12 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				9C62C5AE24FB806C00F9BE12 /* Data.swift */,
+				9C62C5B024FB80C300F9BE12 /* Landmark.swift */,
+				9CB5F1C924FE012A00638DDF /* UserData.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -176,8 +213,8 @@
 				9C211C5624EA01E00008D70E /* Assets.xcassets in Resources */,
 				9C62C5A624FB7FA700F9BE12 /* laAguada.jpg in Resources */,
 				9C62C5A824FB7FA700F9BE12 /* puntaBallena.jpg in Resources */,
-				9C62C5A724FB7FA700F9BE12 /* puntaDelDiablo.png in Resources */,
 				9C62C5AB24FB7FA700F9BE12 /* sanRafael.jpg in Resources */,
+				9CB5F1D224FE081000638DDF /* puntaDelDiablo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,11 +225,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C62C5B124FB80C300F9BE12 /* Landmark.swift in Sources */,
 				9C211C5024EA01DF0008D70E /* AppDelegate.swift in Sources */,
+				9C62C5AF24FB806C00F9BE12 /* Data.swift in Sources */,
 				9C33B9BE24F61D21006C7786 /* CircleImage.swift in Sources */,
+				9CB5F1CE24FE017200638DDF /* LandmarkDetail.swift in Sources */,
+				9CB5F1C824FE00F700638DDF /* LandmarkList.swift in Sources */,
+				9CB5F1D024FE069B00638DDF /* CategoryRow.swift in Sources */,
 				9C33B9C024F61E80006C7786 /* MapView.swift in Sources */,
 				9C211C5224EA01DF0008D70E /* SceneDelegate.swift in Sources */,
-				9C211C5424EA01DF0008D70E /* ContentView.swift in Sources */,
+				9C08AB3824FC615D007E3723 /* Home.swift in Sources */,
+				9CB5F1CC24FE016800638DDF /* LandmarkRow.swift in Sources */,
+				9CB5F1CA24FE012A00638DDF /* UserData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
